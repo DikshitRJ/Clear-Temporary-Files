@@ -1,6 +1,6 @@
 # Clear-Temporary-Files
 ### Use this batch (cmd) file to clear all your temporary files (temp, %temp%, prefetch), run disk cleanup, and defragment the drive in one click, making your computer fast
-To use it, download the file on your desktop or any other folder you wish, double click it, and click 'Yes' on the popup which appears saying 'Do you want to allow this app to make changes to your device?'. This permission is required to run the defragmentation and clear Recycle bin.
+To use it, download the 'clear-temp-files.bat' file on your desktop or any other folder you wish, double click it, and click 'Yes' on the popup which appears saying 'Do you want to allow this app to make changes to your device?'. This permission is required to run the defragmentation and clear Recycle bin.
 
 ![image](https://user-images.githubusercontent.com/84832364/154003655-920d43bb-827b-41d7-bda2-ca207c735438.png)
 
