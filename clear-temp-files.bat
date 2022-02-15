@@ -10,4 +10,4 @@ defrag /C /O
 ::This clears the Recycle Bin
 rd /s /q %systemdrive%\$Recycle.bin
 ::This runs the Disk Cleanup utility
-cleanmgr.exe
+cleanmgr.exe /d%systemdrive%
