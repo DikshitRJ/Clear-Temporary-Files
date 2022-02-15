@@ -10,4 +10,4 @@ Then, the process would start running in an open command window, and would first
 
 ![image](https://user-images.githubusercontent.com/84832364/154003786-d764ea35-6d57-4e53-8dc4-34dc9ae514f0.png)
 
-Congrats! The computer speed is now boosted!
+Congratulations! The computer speed is now boosted!
