@@ -8,4 +8,5 @@ del C:\Windows\Prefetch\*.* /f /s /q
 del C:\Windows\Temp\*.* /f /s /q
 defrag /C /O
 rd /s /q %systemdrive%\$Recycle.bin
+::Change 'c' at the end of the line to another letter if you want to run disk cleanup in another disk (/d<Drive>)
 c:\windows\SYSTEM32\cleanmgr.exe /dc
