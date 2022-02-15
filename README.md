@@ -4,7 +4,7 @@ To use it, download the 'clear-temp-files.bat' file on your desktop or any other
 
 ![image](https://user-images.githubusercontent.com/84832364/154003655-920d43bb-827b-41d7-bda2-ca207c735438.png)
 
-Then, the process would start running in an open command window, and would first clear all the Temp files, then it would run the disk defragmentation, and then a popup for disk clean up would open... Select the disk that you want to clean, then select all options in the popup and click 'OK".
+Then, the process would start running in an open command window, and would first clear all the Temp files, then it would run the disk defragmentation, and then a popup for disk clean up would open... Select all options in the popup and click 'OK".
 
 ![image](https://user-images.githubusercontent.com/84832364/154003499-58588857-bce2-44b6-bcb6-76488429991a.png)
 
