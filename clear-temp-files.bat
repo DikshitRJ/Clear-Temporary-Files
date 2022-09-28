@@ -5,9 +5,9 @@ ECHO Deleting temp files
 del %TEMP%\*.* /f /s /q
 del %systemdrive%\Windows\Prefetch\*.* /f /s /q
 del %systemdrive%\Windows\Temp\*.* /f /s /q
-ECHO Defragmenting all drives
-defrag /C /O
 ECHO  Clearing recycle bin
 rd /s /q %systemdrive%\$Recycle.bin
 ECHO Bin cleared. Running Disk Cleanup
 cleanmgr.exe /d%systemdrive%
+taskkill /F /IM explorer.exe
+start explorer
