@@ -10,4 +10,4 @@ rd /s /q %systemdrive%\$Recycle.bin
 ECHO Bin cleared. Running Disk Cleanup
 cleanmgr.exe /d%systemdrive%
 taskkill /F /IM explorer.exe
-start explorer
+start explorer.exe
