@@ -9,5 +9,7 @@ ECHO  Clearing recycle bin
 rd /s /q %systemdrive%\$Recycle.bin
 ECHO Bin cleared. Running Disk Cleanup
 cleanmgr.exe /d%systemdrive%
+ECHO Deframenting  C drive
+defrag C:
 taskkill /F /IM explorer.exe
 start explorer.exe
