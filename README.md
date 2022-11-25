@@ -11,3 +11,4 @@ Then, the process would start running in an open command window, and would first
 ![image](https://user-images.githubusercontent.com/84832364/154003786-d764ea35-6d57-4e53-8dc4-34dc9ae514f0.png)
 
 Congratulations! The computer speed is now boosted!
+You may save the file in the username directory so that u can run it using WIN+R, and u can create a shortcut to it to the desktop.
